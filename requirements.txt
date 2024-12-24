@@ -5,3 +5,4 @@ python-dotenv
 bs4
 IPython
 openai
+ollama
