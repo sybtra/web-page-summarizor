@@ -1,0 +1,7 @@
+selenium
+undetected-chromedriver
+requests
+python-dotenv
+bs4
+IPython
+openai
